@@ -14,6 +14,6 @@ Animal Trading card is a Udacity Front-end Nano-Degree project for better knowle
 * The project mainly focus on the far better experience with adding images, links and making list using html.
 * It helps to understand how _CSS_ works.
 
-<img src='Screenshot (2).png'/>
+<p align="center"><img src='Screenshot (2).png' width="400px" height="450px"></p>
 
 
